@@ -1,0 +1,9 @@
+<!DOCTYPE html>   <!-- Document type declaration -->
+<html>            <!-- Root element -->
+<head>            <!-- Metadata -->
+  <title>Page Title</title>
+</head>
+<body>            <!-- Page content -->
+  …
+</body>
+</html>
